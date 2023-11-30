@@ -1,5 +1,3 @@
-Assignment - Data Analyst
-
 Conjunctions in space occur when two or more Resident Space Objects
 (RSOs) in the Earth's orbit pass dangerously close to one another, resulting in
 possible collision scenarios. With the rapid increase in the number of RSOs in recent
